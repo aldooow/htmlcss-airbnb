@@ -1,0 +1,27 @@
+/* BEGIN RESET */
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* END RESET */
+
+.city {
+  position: relative;
+}
+
+.photo {
+  position: relative;
+  width: 300px;
+  height: 300px;
+}
+
+.text {
+  position: absolute;
+
+}
+
+.city {
+  height: auto;
+  background: url(../img/milano.jpg)
+}
