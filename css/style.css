@@ -6,8 +6,12 @@
 }
 /* END RESET */
 
+body {
+  background: lightblue;
+}
 /* container */
 .container {
+  background: white;
   position: relative;
   width: 300px;
   height: auto;
